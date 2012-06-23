@@ -1,0 +1,7 @@
+C:\Users\Mani Malakian\Desktop\Trying\GitTest\GitTest\bin\GitTest.dll
+C:\Users\Mani Malakian\Desktop\Trying\GitTest\GitTest\bin\GitTest.pdb
+C:\Users\Mani Malakian\Desktop\Trying\GitTest\GitTest\bin\EntityFramework.dll
+C:\Users\Mani Malakian\Desktop\Trying\GitTest\GitTest\bin\EntityFramework.xml
+C:\Users\Mani Malakian\Desktop\Trying\GitTest\GitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mani Malakian\Desktop\Trying\GitTest\GitTest\obj\Debug\GitTest.dll
+C:\Users\Mani Malakian\Desktop\Trying\GitTest\GitTest\obj\Debug\GitTest.pdb
